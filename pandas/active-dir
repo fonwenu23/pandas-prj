@@ -1,0 +1,11 @@
+ID, Name, Age, Email, Salary, Joining Date, Department  
+101, John Doe, 29, johndoe@email.com, 55000, 2021-07-15, IT  
+102, Jane Smith, 34, janesmith@email, 62000, 2019-06-23, HR  
+103, , 40, robert@email.com, , 2018-09-12, Finance  
+104, Alice Johnson, 28, alice@email.com, 72000, 2020-11-05, IT  
+105, Bob Brown, , bobbrown@email.com, 50000, 2022-01-10, HR  
+106, Charlie Davis, 37, charlied@email, 65000, , IT  
+107, Dana White, 30, danawhite@email.com, 58000, 2017-03-30, Sales  
+108, Eve Adams, 45, eveadams@email.com, , 2015-08-17,  
+, Frank Wilson, 33, frank@email.com, 70000, 2016-05-22, Marketing  
+110, Grace Lee, 29, gracelee@email.com, 68000, 2021-10-19, IT  
